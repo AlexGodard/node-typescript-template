@@ -22,7 +22,7 @@
     "bottleneck": "^2.19.5",
     "dotenv": "^8.2.0",
     "lodash": "^4.17.21",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "redis": "^3.1.1",
     "winston": "^3.2.1"
   },
